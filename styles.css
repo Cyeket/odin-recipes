@@ -1,0 +1,24 @@
+body    {
+    background-color: #FFE4C4;
+    
+}
+
+    h1 {
+        font-family: "Norse";
+        text-align: center;
+    }
+    
+
+#projectBy  {
+    display: block;
+    color: white;
+    font-size: 1vw;
+    margin-top: 0.5vw;
+}
+
+#TOP    {
+    margin: 0.5vw 0;
+    width: 17vw;
+    display: block;
+    transform: translateX(1.5%);
+}
